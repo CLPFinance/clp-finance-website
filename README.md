@@ -1,8 +1,13 @@
----
-keywords: [static website, basic website, html, host a website, beginner]
----
+## CLP official website
+hosted on IC
 
-# Static website
+IC: https://hrvsu-bqaaa-aaaam-aciwa-cai.icp0.io/
+
+traditional domain: https://www.clp.finance/
+
+
+
+# derived from ICP public samples
 
 [View this sample's code on GitHub](https://github.com/dfinity/examples/tree/master/hosting/static-website)
 
